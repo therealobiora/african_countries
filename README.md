@@ -46,7 +46,7 @@ HTTP (API calls)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/african_countries.git
+git clone https://github.com/therealobiora/african_countries.git
 cd african_countries
 
 2️⃣ Install Dependencies
